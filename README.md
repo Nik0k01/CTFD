@@ -1,9 +1,6 @@
 # CTFD (Computational Theory & Fluid Dynamics)
 
-![GitHub Stars](https://img.shields.io/github/stars/Nik0k01/CTFD?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/Nik0k01/CTFD?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nik0k01/CTFD?style=flat-square)
-![License](https://img.shields.io/badge/License-[License_Type]-blue?style=flat-square)
 
 ---
 
