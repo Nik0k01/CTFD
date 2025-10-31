@@ -1,4 +1,4 @@
-# CTFD (Computational Theory & Fluid Dynamics)
+# CTFD (Computational Thermal Fluid Dynamics)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nik0k01/CTFD?style=flat-square)
 
